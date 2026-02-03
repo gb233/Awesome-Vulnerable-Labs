@@ -65,6 +65,7 @@ English | [中文](README.zh.md)
 - [GOVWA](https://github.com/0c34/govwa) - Go-based vulnerable web application.
 - [OWASP Hackademic](https://github.com/Hackademic/hackademic/) - Web security learning lab.
 - [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) - OWASP Web lab.
+- [JavaWebSec](https://github.com/gb233/JavaWebSec) - Java Web security teaching platform covering OWASP Top 10, with interactive demos, quizzes, and challenge mode.
 - [OWASP Security Shepherd](https://www.owasp.org/index.php/OWASP_Security_Shepherd) - Web security training platform ().
 - [OWASP Security Shepherd (GitHub)](https://github.com/OWASP/SecurityShepherd) - OWASP Security Shepherd.
 - [OWASP WebGoat 8](https://github.com/webgoat/webgoat) - Vulnerable training platform.
@@ -364,7 +365,7 @@ English | [中文](README.zh.md)
 - [VulnStack（红日靶场）](http://vulnstack.qiyuanxuetang.net/vuln/) - Environment lab.
 - [NETinVM](https://informatica.uv.es/~carlos/docencia/netinvm/) - Security training environment.
 - [DVTA (Damn Vulnerable Thick Client App)](https://github.com/srini0x00/dvta) - C#/.NET vulnerability practice app.
-- [BetaFast](https://github.com/NetSPI/BetaFast) - Vulnerable thick client applications used as examples in the Introduction to Hacking Desktop Applications blog series。
+- [BetaFast](https://github.com/NetSPI/BetaFast) - Vulnerable thick client applications used as examples in the Introduction to Hacking Desktop Applications blog series.
 - [GRFICS](https://github.com/djformby/GRFICS) - Security platform.
 - [GRFICSv2](https://github.com/Fortiphyd/GRFICSv2) - GRFICS lab environment.
 - [GRFICSv3](https://github.com/mrideout/GRFICSv3) - GRFICS lab environment.
@@ -448,8 +449,8 @@ English | [中文](README.zh.md)
 - [OverTheWire](http://www.overthewire.org/wargames/) - Wargame.
 - [Hack arrrg](https://hack.arrrg.de/) - Online security challenge platform.
 - [Netgarage Wargame](https://io.netgarage.org/) - Wargame challenge.
-- [Root Me](http://www.root-me.org/?lang=en) - security challenge platform.
-- [RootTheBox](https://github.com/moloch--/RootTheBox) - RootTheBox practice platform.
+- [Root Me](http://www.root-me.org/?lang=en) - Security challenge platform.
+- [RootTheBox](https://github.com/moloch--/RootTheBox) - Practice platform for security challenges.
 - [Smash The Stack](http://www.smashthestack.org/) - Wargame challenge platform.
 - [TheBlackSheep and Erik](http://www.bright-shadows.net/) - Security challenge platform.
 - [ThisIsLegal](http://thisislegal.com/) - Challenge.
@@ -483,7 +484,7 @@ English | [中文](README.zh.md)
 - [Acunetix acuforum](https://testasp.vulnweb.com/) - Acunetix vulnerability demo.
 - [Acunetix acublog](https://testaspnet.vulnweb.com/) - Acunetix vulnerability demo.
 - [Acunetix acuart](https://testphp.vulnweb.com/) - Acunetix PHP vulnerability demo site.
-- [Acunetix REST API](http://rest.vulnweb.com/) - Acunetix REST API vulnerability demo site.
+- [Acunetix REST API](http://rest.vulnweb.com/) - REST API vulnerability demo site.
 - [Acunetix SecurityTweets](http://testhtml5.vulnweb.com) - Acunetix HTML5 vulnerability demo site.
 - [Fortify Zero Bank](http://zero.webappsecurity.com) - Fortify vulnerability demo.
 - [Fortify IWA.NET](https://github.com/fortify/IWA-DotNet) - Fortify.NET vulnerable example application.
@@ -524,9 +525,9 @@ English | [中文](README.zh.md)
 - [Vulnerable Codes](https://vulnerable.codes/) - Vulnerable practice platform.
 
 ### Online Labs / Course Platforms
-- [Blue Team Labs Online](https://blueteamlabs.online/) - // training platform.
+- [Blue Team Labs Online](https://blueteamlabs.online/) - Blue team training platform.
 - [Google Gruyere](http://google-gruyere.appspot.com/) - Web vulnerable learning demo platform.
-- [Forensic Practical](http://www.forensickb.com/2008/01/forensic-practical.html) - .
+- [Forensic Practical](http://www.forensickb.com/2008/01/forensic-practical.html) - Digital forensics practice and malware analysis resources.
 - [Gh0st Lab](http://www.gh0st.net/) - Security challenge.
 - [HackQuest](http://www.hackquest.com/) - Security learning resources.
 - [Security Treasure Hunt](http://www.securitytreasurehunt.com/) - Challenge.
@@ -554,8 +555,8 @@ English | [中文](README.zh.md)
 - [MS08067 实战型训练平台](http://bachang.ms08067.com) - Online training platform.
 
 ### Environment / Infrastructure Tools
-- [Vagrant](https://www.vagrantup.com/) - / lab environment tool.
-- [SmartOS](https://smartos.org/) - .
+- [Vagrant](https://www.vagrantup.com/) - Lab environment tool.
+- [SmartOS](https://smartos.org/) - Open-source virtualization platform.
 - [vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor/) - Platform.
 - [GNS3](http://sourceforge.net/projects/gns-3/) - Tool.
 - [XAMPP](https://www.apachefriends.org/index.html) - Local Web.
@@ -572,7 +573,7 @@ English | [中文](README.zh.md)
 - [leaky-repo](https://github.com/Plazmaz/leaky-repo) - Secret leak scanning benchmark repository.
 - [Terrabuck](https://github.com/SymbioticSec/terrabuck) - Security tool IaC collection.
 - [javascript-cwe-codeql](https://github.com/StackOverflowIsBetterThanAnyAI/javascript-cwe-codeql) - For SAST JavaScript vulnerable.
-- [ZagBench](https://github.com/Zag-Research/ZagBench) - .
+- [ZagBench](https://github.com/Zag-Research/ZagBench) - Dynamic language benchmark suite.
 - [python-benchmark-tasks](https://github.com/saiajith-muduthanapelli/python-benchmark-tasks) - Python collection.
 
 ## Legacy Software and Supporting Resources
@@ -602,11 +603,16 @@ English | [中文](README.zh.md)
 
 
 ## Inclusion Criteria
-- **Relevance:** Directly related to vulnerability learning, penetration testing practice, or attack/defense training (vulnerable-by-design or provides a practice environment).
-- **Availability:** Provide an accessible demo link or clear self-hosting instructions (docs/images/source).
-- **Completeness:** Include name, link, one-line description, and tags.
-- **Transparency:** Prefer indicating cost and delivery; omit if unknown.
-- **Tone:** Keep descriptions objective, neutral, and concise.
+
+**Relevance:** Directly related to vulnerability learning, penetration testing practice, or attack/defense training (vulnerable-by-design or provides a practice environment).
+
+**Availability:** Provide an accessible demo link or clear self-hosting instructions (docs/images/source).
+
+**Completeness:** Include name, link, one-line description, and tags.
+
+**Transparency:** Prefer indicating cost and delivery; omit if unknown.
+
+**Tone:** Keep descriptions objective, neutral, and concise.
 
 ## Disclaimer
 - This list is for security research and education only; test only with explicit authorization.

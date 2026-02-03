@@ -65,6 +65,7 @@
 - [GOVWA](https://github.com/0c34/govwa) - Go 语言编写的 Web 漏洞练习应用。
 - [OWASP Hackademic](https://github.com/Hackademic/hackademic/) - Web 安全学习靶场。
 - [OWASP Juice Shop](https://github.com/juice-shop/juice-shop) - OWASP 官方开源 Web 靶场。
+- [JavaWebSec](https://github.com/gb233/JavaWebSec) - 面向初学者与高校的 Java Web 安全教学平台，覆盖 OWASP Top 10，含漏洞演示、知识测试与挑战模式。
 - [OWASP Security Shepherd](https://www.owasp.org/index.php/OWASP_Security_Shepherd) - Web 安全训练平台（开源）。
 - [OWASP Security Shepherd (GitHub)](https://github.com/OWASP/SecurityShepherd) - OWASP Security Shepherd 源码。
 - [OWASP WebGoat 8](https://github.com/webgoat/webgoat) - OWASP WebGoat 8 漏洞训练平台。
