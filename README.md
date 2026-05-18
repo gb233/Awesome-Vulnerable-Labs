@@ -208,6 +208,7 @@ English | [中文](README.zh.md)
 - [DamnVulnerableLLMProject](https://github.com/harishsg993010/DamnVulnerableLLMProject) - LLM vulnerable practice project.
 - [satml-llm-ctf](https://github.com/ethz-spylab/satml-llm-ctf) - LLM CTF platform.
 - [Prompt-Injection-Playground](https://github.com/svenmorgenrothio/Prompt-Injection-Playground) - Prompt Injection practice Playground.
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 ## Blockchain / Web3 / Smart Contract Labs
 
